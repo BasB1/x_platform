@@ -13,7 +13,7 @@ In the launch file it is possible to specify at what distances the system will l
 ### Installation software
 The package depends on the Pozyx libray which can be installed using pip:
 ```
-pip install pypozyx
+$ pip install pypozyx
 ```
 Then go to the src directory of your ROS ws and clone the repository:
 ```
